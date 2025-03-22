@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Civilsalt Projects\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\HP\Desktop\Civilsalt Projects\Phonebook\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Civilsalt Projects\Phonebook\Phonebook\obj\Debug\Phonebook.Phonebook.resources
+C:\Users\HP\Desktop\Civilsalt Projects\Phonebook\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+C:\Users\HP\Desktop\Civilsalt Projects\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Civilsalt Projects\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\HP\Desktop\Civilsalt Projects\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\HP\Desktop\Civilsalt Projects\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\HP\Desktop\Civilsalt Projects\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+C:\Users\HP\Desktop\Civilsalt Projects\Phonebook\Phonebook\obj\Debug\Phonebook.About.resources
